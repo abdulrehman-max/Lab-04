@@ -3,3 +3,7 @@ int a = 6;
 int b = 4;
 int sum = a + b;
 Console.WriteLine("The sum of two numbers: + sum");
+int a 4;
+int b = 3;
+int subtract = a - b;
+Console.WriteLine("The subtract of two numbers: + subtract");
