@@ -7,3 +7,7 @@ int a 4;
 int b = 3;
 int subtract = a - b;
 Console.WriteLine("The subtract of two numbers: + subtract");
+int a 6;
+int b = 5;
+int multiply = a * b;
+Console.WriteLine("The multiplication of two numbers: + multiply");
